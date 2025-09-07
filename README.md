@@ -1,63 +1,55 @@
-Craftopia AI Artisan
-Project info
+# 🌸 Craftopia AI Artisan  
 
-URL: (add your deployed project URL here)
+An AI-powered artisan marketplace frontend built with **React + Vite + TypeScript + Tailwind CSS + shadcn-ui**.  
 
-How can I edit this code?
+---
 
-There are several ways of editing your application:
+## 🚀 Project Info  
+- **Live URL**: *(add your deployed link here)*  
+- **Repository**: This repo contains the complete frontend source code.  
 
-Use your preferred IDE
+---
 
-Clone this repo
+## 🛠️ How to Edit This Code  
 
-Install dependencies with:
+### ▶️ Run Locally  
+1. Clone the repository  
+   ```sh
+   git clone https://github.com/USERNAME/craftopia-ai-artisan.git
+   cd craftopia-ai-artisan
+Install dependencies
 
-npm i
+sh
+Copy code
+npm install
+Start the dev server
 
-
-Start the development server with:
-
+sh
+Copy code
 npm run dev
+📝 Edit Directly on GitHub
+Open the file you want to change.
 
+Click ✏️ (Edit) → Commit changes.
 
-Edit a file directly in GitHub
+💻 Use GitHub Codespaces
+Click the green Code button → Codespaces → New Codespace.
 
-Navigate to the desired file(s)
+Start editing directly in your browser.
 
-Click the "Edit" button (pencil icon) at the top right of the file view
+🧩 Tech Stack
+⚡ Vite
 
-Make your changes and commit them
+⚛️ React
 
-Use GitHub Codespaces
+🌀 TypeScript
 
-Navigate to the main page of your repository
+🎨 Tailwind CSS
 
-Click on the "Code" button (green button) near the top right
+🧩 shadcn/ui
 
-Select the "Codespaces" tab
-
-Click on "New codespace" to launch a new Codespace environment
-
-Edit files directly within the Codespace and commit and push your changes once you're done
-
-What technologies are used for this project?
-
-This project is built with:
-
-Vite
-
-TypeScript
-
-React
-
-shadcn-ui
-
-Tailwind CSS
-
-How can I deploy this project?
-
-You can deploy using platforms like:
+🌐 Deployment
+You can deploy on platforms like:
 
 Vercel
 
@@ -67,7 +59,24 @@ GitHub Pages
 
 Render
 
-Can I connect a custom domain?
+🌍 Custom Domain
+Yes, you can connect your own domain.
 
-Yes. Most hosting providers allow you to connect a custom domain.
-Follow your hosting provider’s domain setup guide to configure it properly.
+Follow the setup guide of your chosen hosting provider (Vercel, Netlify, etc.).
+
+Add DNS records → Verify → Done ✅
+
+🤝 Contributing
+Fork the repo
+
+Create a new branch
+
+sh
+Copy code
+git checkout -b feature-name
+Make changes and commit
+
+sh
+Copy code
+git commit -m "Add new feature"
+Push and open a Pull Request 🚀
